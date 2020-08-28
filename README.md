@@ -1,13 +1,7 @@
-## @Sh031224 Hi there 👋
+## @limgyumin Hi there 👋
 
-I'm a student in `Daegu Software High School`.
+`Daegu Software High School` student.
 
-<!--
-### 🔭 Languages
-- C
-- JAVA
-- JavaScript/TypeScript
--->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimgyumin)](https://hits.seeyoufarm.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100048700034135)](https://www.facebook.com/profile.php?id=100040880319481)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/g_yyuu_/)](https://www.instagram.com/g_yyuu_)
@@ -22,10 +16,7 @@ I'm a student in `Daegu Software High School`.
 - Flutter
 
 ### 🌱 I’m currently learning ...
-- React Native
-- Flutter
-- Electron
-- NestJS
+- NodeJs
 
 ### 💬 Ask me about ...
 - whswkfrbals4348@gmail.com
