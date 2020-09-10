@@ -13,6 +13,7 @@
 ### 🔭 Stacks
 - ReactJs
 - React Native
+- Electron
 - Flutter
 
 ### 🌱 I’m currently learning ...
