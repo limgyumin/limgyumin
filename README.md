@@ -1,4 +1,4 @@
-# 즐겁게 살되, 게을러지지 않기 ☺
+# 즐겁게 살되 성실하게 살기 ☺
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=limgyumin&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limgyumin&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
