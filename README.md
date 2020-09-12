@@ -1,6 +1,4 @@
-## @limgyumin Hi there 👋
-
-`Daegu Software High School` student.
+즐겁게 살되, 게을러지지 않기 ☺
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimgyumin)](https://hits.seeyoufarm.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100048700034135)](https://www.facebook.com/profile.php?id=100040880319481)
