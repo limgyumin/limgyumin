@@ -16,7 +16,7 @@
 
 ### 🌱 I’m currently learning ...
 - NodeJs
-- ExpressJs
+- Express
 - Typeorm
 
 ### 💬 Ask me about ...
