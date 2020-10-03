@@ -17,6 +17,7 @@
 - NodeJs
 - Express
 - Typeorm
+- NextJs
 
 ### 💬 Ask me about ...
 - whswkfrbals4348@gmail.com
