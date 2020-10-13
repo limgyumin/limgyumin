@@ -12,10 +12,9 @@
 - ReactJs
 - React Native
 - Electron
+- ExpressJs
 
 ### 🌱 I’m currently learning ...
-- NodeJs
-- Express
 - Typeorm
 - NextJs
 
