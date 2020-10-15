@@ -1,4 +1,4 @@
-## 재밌는거 만들기 📝
+#### 재밌는거 만들기 📝
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=limgyumin&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limgyumin&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,15 +8,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/g_yyuu_/)](https://www.instagram.com/g_yyuu_)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whswkfrbals4348@gmail.com)](mailto:whswkfrbals4348@gmail.com) 
 
-### 🔭 Stacks
+### 할줄 아는 거
 - ReactJs
 - React Native
 - Electron
 - ExpressJs
 
-### 🌱 I’m currently learning ...
+### 배우는 중인 거
 - Typeorm
 - NextJs
 
-### 💬 Ask me about ...
+### 💬 무엇이든 물어보세요
 - whswkfrbals4348@gmail.com
