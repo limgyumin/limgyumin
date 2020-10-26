@@ -8,7 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/g_yyuu_/)](https://www.instagram.com/g_yyuu_)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whswkfrbals4348@gmail.com)](mailto:whswkfrbals4348@gmail.com) 
 
-#### 🔨 할줄 아는 거
+#### 🔨 하고 있는 거
 - ReactJs
 - React Native
 - Electron
