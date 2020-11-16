@@ -16,5 +16,5 @@
 |![](https://img.icons8.com/color/24/000000/typescript.png)|Typescript|타입스크립트를 주로 사용하여 프로젝트를 진행합니다.|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/react-native.png)|React & RN|주로 React를 이용한 프론트엔드 프로젝트를 진행합니다.|![80%](https://progress-bar.dev/50)|
 |![electron](https://user-images.githubusercontent.com/52942566/99200569-75136280-27e9-11eb-8e06-98e806257228.png)|Electron|Electron을 이용한 데스크탑 앱을 만들 수 있습니다.|![50%](https://progress-bar.dev/50)|
-|![](https://img.icons8.com/color/24/000000/api.png)|API|Express를 통해 REST API를 제작합니다|![40%](https://progress-bar.dev/85)|
-|![](https://img.icons8.com/color/24/000000/git.png)|Git&Github|Git Branch를 이용한 협업을 진행합니다|![70%](https://progress-bar.dev/70)|
+|![](https://img.icons8.com/color/24/000000/api.png)|API|Express를 통해 REST API를 제작합니다.|![40%](https://progress-bar.dev/85)|
+|![](https://img.icons8.com/color/24/000000/git.png)|Git&Github|Git Branch를 이용한 협업을 진행합니다.|![70%](https://progress-bar.dev/70)|
